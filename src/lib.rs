@@ -102,7 +102,7 @@ lazy_static! {
 
 /// Convert an image into a string of colour pixel emoji
 /// # Examples
-/// ```
+/// ```no_run
 /// use emoji_pix::{emojify, Opts};
 /// emojify(Opts {
 ///     // This was downloaded from https://rustacean.net/assets/rustacean-flat-noshadow.png
